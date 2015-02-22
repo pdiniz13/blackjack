@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/models/Card.js" />
+        <item url="file://$PROJECT_DIR$/src/views/AppView.js" />
+        <item url="file://$PROJECT_DIR$/spec/BlackjackViewSpec.js" />
+        <item url="file://$PROJECT_DIR$/src/views/CardView.js" />
+        <item url="file://$PROJECT_DIR$/spec/CardSpec.js" />
+        <item url="file://$PROJECT_DIR$/src/views/HandView.js" />
+        <item url="file://$PROJECT_DIR$/spec/DeckSpec.js" />
+        <item url="file://$PROJECT_DIR$/src/collections/Hand.js" />
+        <item url="file://$PROJECT_DIR$/src/collections/Deck.js" />
+        <item url="file://$PROJECT_DIR$/src/models/App.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/models/Card.js" />
+      <root url="file://$PROJECT_DIR$/src/views/AppView.js" />
+      <root url="file://$PROJECT_DIR$/spec/BlackjackViewSpec.js" />
+      <root url="file://$PROJECT_DIR$/src/views/CardView.js" />
+      <root url="file://$PROJECT_DIR$/spec/CardSpec.js" />
+      <root url="file://$PROJECT_DIR$/src/views/HandView.js" />
+      <root url="file://$PROJECT_DIR$/spec/DeckSpec.js" />
+      <root url="file://$PROJECT_DIR$/src/collections/Hand.js" />
+      <root url="file://$PROJECT_DIR$/src/collections/Deck.js" />
+      <root url="file://$PROJECT_DIR$/src/models/App.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
